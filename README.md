@@ -6,9 +6,9 @@ pkg install git
 
 pkg install python-pip
 
-git clone https://github.com/2rum006/ek9cpm.git
+git clone https://github.com/paeng1992/eno.git
 
-cd ekocpm
+cd eno
 
 git pull
 
